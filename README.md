@@ -1,2 +1,3 @@
 # PyriteCapes
-I am very sad that npm decided it would be a good idea to make JavaScript my top language. :(
+Used to be a mantle.gg clone
+I would open source it but I can't find the code
